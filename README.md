@@ -1,6 +1,5 @@
 # Pink-RX560-DVI-macOS-Tahoe
 
-# Pink-RX560-DVI-macOS-Tahoe
 
 
 ##The solution to the Pink DVI output color issue on Radeon RX 560 may work on other Polaris cards.
