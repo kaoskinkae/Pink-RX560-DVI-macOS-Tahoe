@@ -25,7 +25,7 @@ location for placing the folder
 <img width="914" height="462" alt="Captura de pantalla 2026-11-11 a las 14 18 46" src="https://github.com/user-attachments/assets/3bb133f9-b451-4994-863e-600f2931160e" />
 
 
-SSD / Biblioteca / Displays / Resource / Overrides 
+SSD / Biblioteca / Displays / Contents / Resource / Overrides 
 
 Instead of
 
