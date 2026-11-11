@@ -19,3 +19,10 @@ It is important that the folder be placed inside the newly created folder named 
 Let’s restart. It is important that, throughout the entire process, a monitor or television with a DVI connection remains connected. We can verify this using version 5.0.9 of the Hackintool application.
 
 Once we restart, the monitor or television will no longer have that annoying pink tint.
+
+location for placing the folder
+
+<img width="914" height="462" alt="Captura de pantalla 2026-11-11 a las 14 18 46" src="https://github.com/user-attachments/assets/3bb133f9-b451-4994-863e-600f2931160e" />
+
+
+
